@@ -1,0 +1,14 @@
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\bin\Debug\net8.0\DemoCSharpBase.exe
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\bin\Debug\net8.0\DemoCSharpBase.deps.json
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\bin\Debug\net8.0\DemoCSharpBase.runtimeconfig.json
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\bin\Debug\net8.0\DemoCSharpBase.dll
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\bin\Debug\net8.0\DemoCSharpBase.pdb
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.AssemblyInfoInputs.cache
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.AssemblyInfo.cs
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.csproj.CoreCompileInputs.cache
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.dll
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\refint\DemoCSharpBase.dll
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.pdb
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\DemoCSharpBase.genruntimeconfig.cache
+C:\DEV\Csharp\CSharpBase\DemoCSharpBase\obj\Debug\net8.0\ref\DemoCSharpBase.dll
